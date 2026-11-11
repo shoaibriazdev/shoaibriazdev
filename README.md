@@ -74,6 +74,17 @@ A multi-step repair quote form for phone and gadget repair shops.
 
 ---
 
+## Open-source contributions
+
+Issues I picked up in other people's projects. The code is public.
+
+| Project | What I did | Pull request |
+| --- | --- | --- |
+| [wp-content-io/external-repositories](https://github.com/wp-content-io/external-repositories) — WordPress plugin for third-party update servers | Fixed PHP warnings when an update server leaves out `version` or `download_link` ([issue #9](https://github.com/wp-content-io/external-repositories/issues/9)) | [#14](https://github.com/wp-content-io/external-repositories/pull/14) — in review |
+| [dmae97/omk](https://github.com/dmae97/omk) — multi-agent AI coding CLI | Added eight unit tests for `findGitPaths`, covering regular checkouts and linked worktrees ([issue #397](https://github.com/dmae97/omk/issues/397)) | [#400](https://github.com/dmae97/omk/pull/400) — in review |
+
+---
+
 ## Services
 
 - Custom business portals and dashboards
