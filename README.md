@@ -4,7 +4,9 @@
 
 I work with **Next.js, React, TypeScript, Prisma, PostgreSQL, Stripe, WordPress (PHP) and Python**.
 
-> The source code for the products below is kept in private repositories.
+> **Free and open source:** [AI YouTube Automation](https://github.com/shoaibriazdev/ai-youtube-automation) — download it and generate complete YouTube videos with AI.
+>
+> The source code for the other products below is kept in private repositories.
 > If you want a demo, a licence, or a custom build, contact me:
 > 📧 **shoaibriaz3698@gmail.com** · 💬 **[WhatsApp +92 309 4169761](https://wa.me/923094169761)**
 
@@ -12,8 +14,9 @@ I work with **Next.js, React, TypeScript, Prisma, PostgreSQL, Stripe, WordPress 
 
 ## Products
 
-### 🎬 AI YouTube Automation Pro
+### 🎬 AI YouTube Automation Pro — free and open source
 An AI production studio that takes a video from idea to a finished, upload-ready MP4.
+**[Download it on GitHub →](https://github.com/shoaibriazdev/ai-youtube-automation)**
 
 - Full pipeline: idea → script → characters → images → video clips → voiceover → edit → thumbnail → SEO
 - 16-section dashboard: topic research, script generator, character library, voiceover studio, video editor, thumbnail studio, SEO manager, upload manager, publishing schedule, analytics
